@@ -48,5 +48,3 @@ fields:
     required: false
   label: Email Recipient
   description: Form submissions will be sent to this address.
-pages:
-- pricing.md
