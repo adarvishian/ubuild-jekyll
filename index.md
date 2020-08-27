@@ -33,6 +33,10 @@ page_sections:
   color_picker: rgb(254, 244, 4)
   background_color: "#FEDE04"
   email_recipient: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
