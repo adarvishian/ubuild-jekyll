@@ -1,0 +1,24 @@
+---
+layout: blocks
+title: Pricing
+date: 2020-08-27 05:00:00 +0000
+page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: ''
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_color: rgb(254, 222, 4)
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  email_recipient: ''
+
+---
