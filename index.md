@@ -31,6 +31,11 @@ page_sections:
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   color_picker: rgb(254, 244, 4)
+  background_color: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
