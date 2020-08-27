@@ -24,7 +24,7 @@ page_sections:
     headline: 30 Day Trial
     content: Free!
   col_2:
-    headline: ''
-    content: ''
+    headline: After that
+    content: "$8/month"
 
 ---
