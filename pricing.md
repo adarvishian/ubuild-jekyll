@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: ''
-    link_text: ''
+  - link: "#features"
+    link_text: features
   cta:
     url: ''
     button_text: ''
