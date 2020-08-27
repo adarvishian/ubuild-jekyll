@@ -21,8 +21,8 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: 30 Day Trial
+    content: Free!
   col_2:
     headline: ''
     content: ''
