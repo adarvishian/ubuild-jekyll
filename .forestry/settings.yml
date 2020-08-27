@@ -4,11 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: NeuralNotes Test Page
-  create: all
-  templates:
-  - content-feature
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
