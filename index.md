@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Home
-date: 2020-08-27 22:00:00 +0000
+date: 2020-08-27T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -28,6 +28,10 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   color_picker: rgb(254, 244, 4)
   background_color: "#FEDE04"
+  email_recipient: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
   email_recipient: ''
 - template: content-feature
   block: feature-1
