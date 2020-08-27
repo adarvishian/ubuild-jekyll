@@ -9,9 +9,9 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
+  - link: ''
     link_text: Features
-  - link: "#pricing"
+  - link: "/pricing.md"
     link_text: Pricing
   - link: "#team"
     link_text: Team
