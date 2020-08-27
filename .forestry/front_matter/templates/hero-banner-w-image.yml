@@ -7,9 +7,9 @@ fields:
   label: block
   name: block
   default: hero-2
-- name: color_picker
+- name: background_color
   type: color
-  label: Color Picker
+  label: Background Color
   config:
     required: false
     color_format: RGB
