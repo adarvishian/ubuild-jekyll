@@ -3,16 +3,11 @@ layout: blocks
 title: Pricing
 date: 2020-08-27 22:00:00 +0000
 page_sections:
-- template: hero-banner-w-image
-  block: hero-2
-  background_color: rgb(254, 222, 4)
-  background_image: ''
-   image:
-     image: "/uploads/2020/08/27/neuralnotes-header.png"
-     alt_text: ''
-   headline: NeuralNote Pricing
-   content: "$8/month"
-   email_recipient: ''
-
+- template: 1-column-text
+  block: one-column-1
+  headline: 16 Fully Responsive Design Blocks
+  content: "The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using Forestry. Once the site is imported you can immediately
+    create new sites and make them fully customizable. \U0001F447"
 ---
-edasdsadsadsadas
+foo bar
