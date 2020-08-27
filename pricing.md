@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: ''
   navigation:
+  - link: "/"
+    link_text: Home
   - link: ''
     link_text: ''
   cta:
