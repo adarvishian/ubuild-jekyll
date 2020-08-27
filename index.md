@@ -20,9 +20,8 @@ page_sections:
     button_text: Google
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: NeuralNotes<br>
+  content: Seamlessly connect your notes across books and podcasts.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
