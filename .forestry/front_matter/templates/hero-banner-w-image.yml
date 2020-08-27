@@ -12,7 +12,7 @@ fields:
   label: Background Color
   config:
     required: false
-    color_format: RGB
+    color_format: Hex
   description: Pick colors
   default: rgb(254, 222, 4)
 - type: file
