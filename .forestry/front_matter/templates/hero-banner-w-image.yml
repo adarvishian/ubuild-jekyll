@@ -42,6 +42,11 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: signup_bar
+  type: include
+  config: {}
+  template: signup-bar
+  label: Signup bar
 - type: field_group
   name: cta
   label: Call-to-action
