@@ -5,7 +5,7 @@ date: 2020-08-27 05:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
+  logo: "/uploads/2020/08/27/neuralnotes-header.png"
   navigation:
   - link: "/"
     link_text: Home
