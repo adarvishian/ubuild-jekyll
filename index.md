@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: ''
     link_text: Features
-  - link: "/pricing.md"
+  - link: "#pricing"
     link_text: Pricing
   - link: "#team"
     link_text: Team
