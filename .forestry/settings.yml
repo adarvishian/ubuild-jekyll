@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: NeuralNotes Test Page
   create: all
-  match: "**/*"
   templates:
   - content-feature
 - type: document
