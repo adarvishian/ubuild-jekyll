@@ -28,11 +28,6 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
-- name: signup_bar
-  type: include
-  config: {}
-  template: signup-bar
-  label: Signup bar
 - type: textarea
   name: headline
   label: Headline
@@ -47,3 +42,8 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: signup_bar
+  type: include
+  config: {}
+  template: signup-bar
+  label: Signup bar
