@@ -6,19 +6,19 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: ''
-  navigation: []
+  navigation:
+  - link: ''
+    link_text: ''
   cta:
     url: ''
     button_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_color: rgb(254, 222, 4)
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  email_recipient: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
 
 ---
