@@ -16,7 +16,7 @@ page_sections:
     headline: Alexander Darvishian
     content: Founder
   col_2:
-    headline: ''
-    content: ''
+    headline: Tom Sharp
+    content: Founder
 
 ---
