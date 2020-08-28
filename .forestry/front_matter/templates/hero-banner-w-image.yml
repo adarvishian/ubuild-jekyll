@@ -48,3 +48,18 @@ fields:
     required: false
   label: Email Recipient
   description: Form submissions will be sent to this address.
+- name: cta
+  type: field_group
+  config: {}
+  fields:
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  label: Call-to-action
