@@ -26,9 +26,5 @@ page_sections:
   col_2:
     headline: After that
     content: "$8/month"
-menu:
-  main:
-    weight: 2
-    title: pricing
 
 ---

@@ -18,8 +18,5 @@ page_sections:
   col_2:
     headline: Tom Sharp
     content: Founder
-menu:
-  main:
-    weight: 3
 
 ---
