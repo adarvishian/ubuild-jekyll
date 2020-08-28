@@ -7,10 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/08/27/website-header.svg"
   navigation:
-  - link: "#features"
-    link_text: Features
   - link: "/"
     link_text: Home
+  - link: "#features"
+    link_text: Features
+  - link: "#pricing"
+    link_text: Pricing
   cta:
     url: https://google.com
     button_text: Google
