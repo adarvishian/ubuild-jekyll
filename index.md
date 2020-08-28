@@ -13,6 +13,8 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
+  - link: "#team"
+    link_text: Team
   cta:
     url: https://google.com
     button_text: Google
